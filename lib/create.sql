@@ -1,3 +1,3 @@
 CREATE TABLE bears (
-  id INTEGER
+  id INTEGER 
 );
